@@ -1,0 +1,4 @@
+- name: ドキュメント
+  href: docs/
+- name: APIリファレンス
+  href: api/
